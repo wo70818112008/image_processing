@@ -1,0 +1,2 @@
+# image_processing
+multicore_edge_detection
